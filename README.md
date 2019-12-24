@@ -1,2 +1,2 @@
-# Housign-Price-_-Kaggle-Competition
+# Housign-Price-Kaggle-Competition
 Housing price prediction using xgboost 
